@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE abiword PUBLIC "-//ABISOURCE//DTD AWML 1.0 Strict//EN" "http://www.abisource.com/awml.dtd">
+<abiword template="false" styles="unlocked" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:math="http://www.w3.org/1998/Math/MathML" xid-max="24" xmlns:dc="http://purl.org/dc/elements/1.1/" fileformat="1.1" xmlns:svg="http://www.w3.org/2000/svg" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.9.1" xml:space="preserve" props="dom-dir:ltr; document-footnote-restart-section:0; document-endnote-type:numeric; document-endnote-place-enddoc:1; document-endnote-initial:1; lang:sv-SE; document-endnote-restart-section:0; document-footnote-restart-page:0; document-footnote-type:numeric; document-footnote-initial:1; document-endnote-place-endsection:0">
+<!-- ======================================================================== -->
+<!-- This file is an AbiWord document.                                        -->
+<!-- AbiWord is a free, Open Source word processor.                           -->
+<!-- More information about AbiWord is available at http://www.abisource.com/ -->
+<!-- You should not edit this file by hand.                                   -->
+<!-- ======================================================================== -->
+
+<metadata>
+<m key="dc.format">application/x-abiword</m>
+<m key="abiword.generator">AbiWord</m>
+</metadata>
+<history version="2" edit-time="3375" last-saved="1389873192" uid="eb4ec208-7e9c-11e3-9893-d9d1a851d2d9">
+<version id="2" started="1389871061" uid="c6b7692e-7ea4-11e3-9893-d9d1a851d2d9" auto="0" top-xid="17"/>
+</history>
+<styles>
+<s type="P" name="Normal" followedby="Current Settings" props="font-family:Times New Roman; margin-top:0pt; color:000000; margin-left:0pt; text-position:normal; widows:2; font-style:normal; text-indent:0in; font-variant:normal; font-weight:normal; margin-right:0pt; font-size:12pt; text-decoration:none; margin-bottom:0pt; line-height:1.0; bgcolor:transparent; text-align:left; font-stretch:normal"/>
+<s type="C" name="Reference" props="font-size:10pt"/>
+</styles>
+<pagesize pagetype="A4" orientation="portrait" width="8.267717" height="11.692913" units="in" page-scale="1.000000"/>
+<section xid="16" props="page-margin-footer:0.5000in; page-margin-header:0.5000in; page-margin-right:1.0000in; page-margin-left:1.0000in; page-margin-top:1.0000in; page-margin-bottom:1.0000in">
+<p style="Normal" xid="17"><c props="text-decoration:underline">Projekt</c></p>
+<p style="Normal" xid="3"><c props="text-decoration:none"></c></p>
+<p style="Normal" xid="4"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:sv-SE">Planen är att göra en Windows Form Application som sparar medlemmar i en databas.</c></p>
+<p style="Normal" xid="23"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:sv-SE"></c></p>
+<p style="Normal" xid="24"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:sv-SE"></c></p>
+<p style="Normal" xid="1"><c></c></p>
+<p style="Normal" xid="2"><c props="text-decoration:underline">Product backlog</c></p>
+<p style="Normal" xid="6"><c props="text-decoration:underline"></c></p>
+<p style="Normal" xid="7" props="text-align:left; dom-dir:ltr"><c>1. Som användare vill jag kunna registrera nya medlemmar med förnamn, efternamn och telefonnummer, ett unikt medlemsnummer skall automatiskt tilldelas medlemmarna.</c></p>
+<p style="Normal" xid="8" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Normal" xid="9" props="text-align:left; dom-dir:ltr"><c>2. Som användare vill jag kunna få ut en lista på alla medlemmar så att jag enkelt kan få en överblick över alla medlemmar.</c></p>
+<p style="Normal" xid="10" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Normal" xid="11" props="text-align:left; dom-dir:ltr"><c>3. Som användare vill jag kunna ändra på en befintlig medlem så att jag kan korrigera eventuella fel.</c></p>
+<p style="Normal" xid="12" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Normal" xid="13" props="text-align:left; dom-dir:ltr"><c>4. Som användare vill jag kunna ta bort en befintlig medlem ur registret så att jag inte behöver hålla reda på gamla medlemmar.</c></p>
+<p style="Normal" xid="14" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Normal" xid="15" props="text-align:left; dom-dir:ltr"><c>5. Som användare vill jag kunna se en specifik medlems information på ett tydligt sätt så att jag kan få detaljerad information om en medlem.</c></p>
+<p style="Normal" xid="20" props="text-align:left; dom-dir:ltr"><c props="text-decoration:underline"></c></p>
+<p style="Normal" xid="21" props="text-align:left; dom-dir:ltr"><c props="text-decoration:none"></c></p>
+<p style="Normal" xid="22" props="text-align:left; dom-dir:ltr"><c props="text-decoration:none"></c></p>
+</section>
+</abiword>

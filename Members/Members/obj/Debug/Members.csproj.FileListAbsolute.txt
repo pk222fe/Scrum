@@ -1,0 +1,10 @@
+c:\users\peter\documents\visual studio 2012\Projects\Members\Members\bin\Debug\Members.exe.config
+c:\users\peter\documents\visual studio 2012\Projects\Members\Members\bin\Debug\Database1.sdf
+c:\users\peter\documents\visual studio 2012\Projects\Members\Members\bin\Debug\Members.exe
+c:\users\peter\documents\visual studio 2012\Projects\Members\Members\bin\Debug\Members.pdb
+c:\users\peter\documents\visual studio 2012\Projects\Members\Members\obj\Debug\Members.csprojResolveAssemblyReference.cache
+c:\users\peter\documents\visual studio 2012\Projects\Members\Members\obj\Debug\Members.Form1.resources
+c:\users\peter\documents\visual studio 2012\Projects\Members\Members\obj\Debug\Members.Properties.Resources.resources
+c:\users\peter\documents\visual studio 2012\Projects\Members\Members\obj\Debug\Members.csproj.GenerateResource.Cache
+c:\users\peter\documents\visual studio 2012\Projects\Members\Members\obj\Debug\Members.exe
+c:\users\peter\documents\visual studio 2012\Projects\Members\Members\obj\Debug\Members.pdb
